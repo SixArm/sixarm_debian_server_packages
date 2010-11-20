@@ -3,7 +3,7 @@ Version: 1.0.2
 Section: devel
 Priority: optional
 Architecture: all
-Depends: sixarm-debian-apache-packages, sixarm-debian-emacs-packages, sixarm-debian-email-packages, sixarm-debian-gcc-packages, sixarm-debian-java-packages, sixarm-debian-mysql-packages, sixarm-debian-nagios-packages, sixarm-debian-perl-packages, sixarm-debian-python-packages, sixarm-debian-ruby-packages, sixarm-debian-sqlite3-packages, sixarm-debian-sysop-packages
+Depends: sixarm-debian-apache-packages, sixarm-debian-emacs-packages, sixarm-debian-email-packages, sixarm-debian-gcc-packages, sixarm-debian-java-packages, sixarm-debian-javascript-packages, sixarm-debian-mysql-packages, sixarm-debian-nagios-packages, sixarm-debian-perl-packages, sixarm-debian-python-packages, sixarm-debian-ruby-packages, sixarm-debian-sqlite3-packages, sixarm-debian-sysop-packages
 Maintainer: Joel Parker Henderson <joel@sixarm.com>
 Description: Server packages we like to use
  Linux packages we like to use together.
