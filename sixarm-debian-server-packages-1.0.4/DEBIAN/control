@@ -1,0 +1,12 @@
+Package: sixarm-debian-server-packages
+Version: 1.0.4
+Section: devel
+Priority: optional
+Architecture: all
+Depends: redis-server, sixarm-debian-apache-packages, sixarm-debian-emacs-packages, sixarm-debian-email-packages, sixarm-debian-gcc-packages, sixarm-debian-java-packages, sixarm-debian-javascript-packages, sixarm-debian-math-packages, sixarm-debian-mysql-packages, sixarm-debian-nagios-packages, sixarm-debian-perl-packages, sixarm-debian-postgresql-packages, sixarm-debian-python-packages, sixarm-debian-ruby-packages, sixarm-debian-sqlite3-packages, sixarm-debian-sysop-packages, sixarm-debian-zeromq-packages
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Server packages we like to use
+ Linux packages we like to use together.
+
+
+
