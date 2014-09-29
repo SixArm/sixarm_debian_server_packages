@@ -1,0 +1,22 @@
+# SixArm packages that contain more packages.
+# Please see the corresponding git repositories.
+sixarm-debian-apache-packages
+sixarm-debian-crack-packages
+sixarm-debian-emacs-packages
+sixarm-debian-email-packages
+sixarm-debian-erlang-packages
+sixarm-debian-gcc-packages
+sixarm-debian-java-packages
+sixarm-debian-javascript-packages
+sixarm-debian-lua-packages
+sixarm-debian-math-packages
+sixarm-debian-mongo-packages
+sixarm-debian-mysql-packages
+sixarm-debian-nagios-packages
+sixarm-debian-perl-packages
+sixarm-debian-postgresql-packages
+sixarm-debian-python-packages
+sixarm-debian-ruby-packages
+sixarm-debian-sqlite3-packages
+sixarm-debian-sysop-packages
+sixarm-debian-zeromq-packages
